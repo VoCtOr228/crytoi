@@ -264,3 +264,13 @@ left: 1025px;
         text-decoration: none;
     justify-content: space-between;
 }
+
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: darkblue;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 0 0 black;
